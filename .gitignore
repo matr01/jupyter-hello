@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.ipython/
+.local/
+.cache/
+.jupyter/
+_docker-run.ps1
+_requirements.ipynb
